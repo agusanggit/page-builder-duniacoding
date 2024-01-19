@@ -28,7 +28,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository:
 
     ```bash
-    https://github.com/SeptiawanAjiP/laravel-page-builder.git
+    https://github.com/SeptiawanAjiP/page-builder-duniacoding.git
     ```
 
 2. Navigate to the project directory:
